@@ -1,5 +1,6 @@
 # KlinikQ — Sistem Antrian & Kunjungan Klinik
 Link Youtube: https://youtu.be/6nl7PQ_NO4Y
+LINK REPOSITORI: https://github.com/N4thaf/pemweb2-klinikQ-H1D024108.git
 
 Aplikasi web untuk pengelolaan antrian pasien dan pencatatan kunjungan klinik secara digital. Dibangun sebagai tugas besar mata kuliah Pemrograman Web 2, Program Studi Informatika, Universitas Jenderal Soedirman.
 
