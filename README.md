@@ -1,4 +1,5 @@
 # KlinikQ — Sistem Antrian & Kunjungan Klinik
+Link Youtube: https://youtu.be/6nl7PQ_NO4Y
 
 Aplikasi web untuk pengelolaan antrian pasien dan pencatatan kunjungan klinik secara digital. Dibangun sebagai tugas besar mata kuliah Pemrograman Web 2, Program Studi Informatika, Universitas Jenderal Soedirman.
 
