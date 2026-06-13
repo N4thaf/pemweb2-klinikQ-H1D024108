@@ -171,9 +171,3 @@ routes/
 chmod -R 775 storage bootstrap/cache
 ```
 
----
-
-## Lisensi
-
-Proyek ini dibuat untuk keperluan akademis. Tidak untuk digunakan secara komersial.
-# pemweb2-klinikQ-H1D024108
